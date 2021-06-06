@@ -10,7 +10,7 @@
         android:id="@+id/photoBtn"
         android:layout_width="150dp"
         android:layout_height="150dp"
-        android:layout_marginTop="30dp"
+        android:layout_marginTop="20dp"
         android:background="@drawable/round_select_photo"
         android:text="SELECT PHOTO"
         android:scaleType="fitXY"
