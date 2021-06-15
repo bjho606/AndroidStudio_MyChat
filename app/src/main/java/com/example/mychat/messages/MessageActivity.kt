@@ -58,10 +58,10 @@ class MessageActivity : AppCompatActivity() {
             checkUserLoggedIn()
 
             // [테스트용] Firebase에 등록된 모든 사용자 목록
-//            fetchUsers()
+            fetchUsers()
 
             // 나와 채팅중인 사용자 목록
-            fectchMessagingUsers()
+//            fectchMessagingUsers()
         }
     }
 
